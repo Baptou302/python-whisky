@@ -1,0 +1,5 @@
+La simplicité est la sophistication suprême.
+Le code est lu bien plus souvent qu'il n'est écrit.
+Un programme qui marche vaut mieux qu'un programme parfait jamais fini.
+Tout problème peut être résolu en ajoutant une couche d'abstraction.
+Le meilleur code est celui qu'on n'a pas eu besoin d'écrire.

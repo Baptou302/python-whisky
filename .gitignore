@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+
+# Fichiers générés par les exercices du chapitre 08
+08-fichiers/sortie_carres.txt
+08-fichiers/rapport.txt
+08-fichiers/profil.json
+09-mini-projets/03-gestionnaire-de-taches/taches.json
